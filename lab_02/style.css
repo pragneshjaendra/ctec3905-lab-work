@@ -1,0 +1,33 @@
+nav {
+    display: flex;
+    background-color: red;
+  }
+  
+  nav a {
+    background-color: pink;
+    color: blue;
+    padding: 10px;
+    margin: 15px;
+    transition: background-color 0.5s;
+  }
+  nav a:hover {
+    background-color: rgb(188, 233, 188);
+  }
+  header, section {
+    overflow: auto;
+    background-color: gray;
+    text-align: center;
+
+
+  }
+ 
+  /* header {
+    overflow: auto;
+    background-color: blue;
+    text-align: center;
+    
+  }
+  main{
+    overflow: auto;
+    background-color: yellow;
+  } */

@@ -1,0 +1,7 @@
+h1 {color: navy; margin-left: 20px;}
+p {color: yellow; margin-left: 30px; background: black;}
+p1 {color: blue; margin-left: 40px;}
+.my-class {
+    background-color: red;
+    color: yellow;
+}
